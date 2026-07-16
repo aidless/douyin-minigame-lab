@@ -1,0 +1,45 @@
+﻿# Cocos Creator
+build/
+library/
+temp/
+local/
+profiles/
+*.import
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Cocos-specific cache
+.macrocache.json
+.mcp-cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Sensitive
+.env
+.env.local
+*.pem
+*.key
+config.local.json
+
+# OS
+desktop.ini
+\.BIN/
+
+# User-uploaded artifacts (keep structure, ignore content)
+docs/screenshots/*.tmp
+docs/posts/drafts/
