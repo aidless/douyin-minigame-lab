@@ -1,5 +1,7 @@
 # Mini-Game Lab — 抖音小游戏开发实验室
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 > 一个 LLM 研究者的副业尝试：在 6 个月内用 Cocos Creator + 抖音小游戏平台，独立开发并运营 2-3 款休闲小游戏。
 
 ---
